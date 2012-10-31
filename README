@@ -1,0 +1,2 @@
+A simple secotr reader.  It will open the specified drive and allow the user to view the raw bytes of the drive.
+Written in C#/.NET, it makes heavy use of interop to get the information.
